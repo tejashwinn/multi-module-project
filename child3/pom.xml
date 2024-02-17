@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.tejashwin.multimodule</groupId>
 		<artifactId>multi-module-parent</artifactId>
-		<version>1.0.123123123-SNAPSHOT</version>
+		<version>1.0.123123125-SNAPSHOT</version>
 	</parent>
 	<artifactId>child3</artifactId>
 	<name>child3</name>
