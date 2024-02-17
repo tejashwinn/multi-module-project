@@ -5,12 +5,11 @@
 	<parent>
 		<groupId>com.tejashwin.multimodule</groupId>
 		<artifactId>multi-module-parent</artifactId>
-		<version>0.0.3-SNAPSHOT</version>
+		<version>1.0.1-RELEASE</version>
 	</parent>
 	<artifactId>child1</artifactId>
 	<name>child1</name>
 	<description>child</description>
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>21</maven.compiler.source>
@@ -23,7 +22,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>

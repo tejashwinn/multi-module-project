@@ -10,14 +10,15 @@
 	</parent>
 	<groupId>com.tejashwin.multimodule</groupId>
 	<artifactId>multi-module-parent</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>1.0.1-RELEASE</version>
 	<packaging>pom</packaging>
-	<name>child</name>
-	<description>child</description>
+	<name>Multi Module Parent</name>
+	<description>Parent POM</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
 	<modules>
+		<module>child3</module>
 		<module>child1</module>
 		<module>child2</module>
 	</modules>
